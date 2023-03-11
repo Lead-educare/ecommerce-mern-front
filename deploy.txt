@@ -1,0 +1,5 @@
+
+
+Deployed: https://famous-mooncake-b092da.netlify.app/
+Backend: https://ecommerc-mern-faisal.onrender.com/api/v1
+Backend Github: https://github.com/jonyahmed19/ecommerce-mern-server
